@@ -21,3 +21,5 @@ dress.push('maflar')
 console.log(dress)
 
 const student = {name: 'jaglul' , marks:50}
+student.marks = 60;
+console.log(student)
